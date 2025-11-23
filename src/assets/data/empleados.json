@@ -1,0 +1,192 @@
+[
+    {
+        "id": "5559b8be-a76b-44c2-ac98-8ce1a775e47f",
+        "primerApellido": "Pérez",
+        "segundoApellido": "Gómez",
+        "primerNombre": "Juan",
+        "segundoNombre": "Carlos",
+        "identificacion": "1234567890",
+        "direccion": "Calle Falsa 123",
+        "telefono": "555-1234",
+        "email": "juancarlosperez@gmail.com",
+        "area": {
+            "id": "353b3bcf-1f91-49f0-a0eb-bb37f2d1b4ec",
+            "nombre": "Recursos Humanos"
+        },
+        "cargo": {
+            "id": "856d1a53-e16e-437b-bad2-269785bc6966",
+            "cargo": "Analista de RRHH"
+        }
+    },
+    {
+        "id": "55fdaf1b-6709-48cf-afdc-da7a452bda37",
+        "primerApellido": "García",
+        "segundoApellido": "Vargas",
+        "primerNombre": "María",
+        "segundoNombre": "Isabel",
+        "identificacion": "4567890123",
+        "direccion": "Carrera 12 #34-56",
+        "telefono": "555-4567",
+        "email": "mariaisabel@gmail.com",
+        "area": {
+            "id": "353b3bcf-1f91-49f0-a0eb-bb37f2d1b4ec",
+            "nombre": "Recursos Humanos"
+        },
+        "cargo": {
+            "id": "856d1a53-e16e-437b-bad2-269785bc6966",
+            "cargo": "Analista de RRHH"
+        }
+    },
+    {
+        "id": "ba8e2a51-8f75-4c9c-a615-5b793a5def14",
+        "primerApellido": "Núñez",
+        "segundoApellido": "Suárez",
+        "primerNombre": "Miguel",
+        "segundoNombre": "Angel",
+        "identificacion": "7890123456",
+        "direccion": "Calle 23 #45-67",
+        "telefono": "555-7890",
+        "email": "miguelangel@gmail.com",
+        "area": {
+            "id": "353b3bcf-1f91-49f0-a0eb-bb37f2d1b4ec",
+            "nombre": "Recursos Humanos"
+        },
+        "cargo": {
+            "id": "856d1a53-e16e-437b-bad2-269785bc6966",
+            "cargo": "Analista de RRHH"
+        }
+    },
+    {
+        "id": "5c1f1863-5439-40ad-8435-70a762b7952a",
+        "primerApellido": "Sánchez",
+        "segundoApellido": "Torres",
+        "primerNombre": "Carlos",
+        "segundoNombre": "Alberto",
+        "identificacion": "5678901234",
+        "direccion": "Diagonal 98 #76-54",
+        "telefono": "555-5678",
+        "email": "carlosalbertosanchez@gmail.com",
+        "area": {
+            "id": "0c329be0-331d-49b1-8249-1641c2b16055",
+            "nombre": "Finanzas"
+        },
+        "cargo": {
+            "id": "18ec3594-09f5-4e7b-8b2e-1df3e0cf641c",
+            "cargo": "Gerente de RRHH"
+        }
+    },
+    {
+        "id": "35b2dbd8-66a1-453d-b692-49f18c730cd0",
+        "primerApellido": "Ramírez",
+        "segundoApellido": "Ortega",
+        "primerNombre": "Ana",
+        "segundoNombre": "Lucía",
+        "identificacion": "2345678901",
+        "direccion": "Av. Principal 456",
+        "telefono": "555-2345",
+        "email": "analucia@gmail.com",
+        "area": {
+            "id": "56e6f4d3-810f-4a32-b4c7-775194ba1e78",
+            "nombre": "Tecnología de la Información"
+        },
+        "cargo": {
+            "id": "9f715b6f-9dcb-4d55-a150-5e7e8ab6b00e",
+            "cargo": "Desarrollador de Software"
+        }
+    },
+    {
+        "id": "690384e9-09d0-41ea-a563-0538d024908f",
+        "primerApellido": "Martínez",
+        "segundoApellido": "Lopez",
+        "primerNombre": "Pedro",
+        "segundoNombre": "José",
+        "identificacion": "3456789012",
+        "direccion": "Calle Real 789",
+        "telefono": "555-3456",
+        "email": "pedrojosemartinez@gmail.com",
+        "area": {
+            "id": "56e6f4d3-810f-4a32-b4c7-775194ba1e78",
+            "nombre": "Tecnología de la Información"
+        },
+        "cargo": {
+            "id": "9f715b6f-9dcb-4d55-a150-5e7e8ab6b00e",
+            "cargo": "Desarrollador de Software"
+        }
+    },
+    {
+        "id": "48b68f61-ec86-48a8-ba43-ae74951065b1",
+        "primerApellido": "Mendoza",
+        "segundoApellido": "Vega",
+        "primerNombre": "Paola",
+        "segundoNombre": "Andrea",
+        "identificacion": "8901234567",
+        "direccion": "Avenida 56 #78-90",
+        "telefono": "555-8901",
+        "email": "paolaandrea@gmail.com",
+        "area": {
+            "id": "56e6f4d3-810f-4a32-b4c7-775194ba1e78",
+            "nombre": "Tecnología de la Información"
+        },
+        "cargo": {
+            "id": "9f715b6f-9dcb-4d55-a150-5e7e8ab6b00e",
+            "cargo": "Desarrollador de Software"
+        }
+    },
+    {
+        "id": "d8535aa7-c81e-43db-a113-6bb088076d83",
+        "primerApellido": "Ríos",
+        "segundoApellido": "Pacheco",
+        "primerNombre": "Sofia",
+        "segundoNombre": "Carolina",
+        "identificacion": "123456789",
+        "direccion": "Cra. 44 #22-33",
+        "telefono": "555-0123",
+        "email": "sofiacarolina@gmail.com",
+        "area": {
+            "id": "56e6f4d3-810f-4a32-b4c7-775194ba1e78",
+            "nombre": "Tecnología de la Información"
+        },
+        "cargo": {
+            "id": "9f715b6f-9dcb-4d55-a150-5e7e8ab6b00e",
+            "cargo": "Desarrollador de Software"
+        }
+    },
+    {
+        "id": "3cf64cfd-397a-4f55-80d4-813dd3afd708",
+        "primerApellido": "Castro",
+        "segundoApellido": "Ruiz",
+        "primerNombre": "Luisa",
+        "segundoNombre": "Fernanda",
+        "identificacion": "6789012345",
+        "direccion": "Transversal 44 #12-34",
+        "telefono": "555-6789",
+        "email": "luisafernanda@gmail.com",
+        "area": {
+            "id": "0c329be0-331d-49b1-8249-1641c2b16055",
+            "nombre": "Finanzas"
+        },
+        "cargo": {
+            "id": "b4349470-5591-4ca1-be5b-40ad12e159b5",
+            "cargo": "Contador"
+        }
+    },
+    {
+        "id": "ee22353d-2d58-4fcf-825d-42565939013e",
+        "primerApellido": "Ortega",
+        "segundoApellido": "Morales",
+        "primerNombre": "Jorge",
+        "segundoNombre": "Enrique",
+        "identificacion": "9012345678",
+        "direccion": "Calle 15 #89-01",
+        "telefono": "555-9012",
+        "email": "jorgeenrique@gmail.com",
+        "area": {
+            "id": "0c329be0-331d-49b1-8249-1641c2b16055",
+            "nombre": "Finanzas"
+        },
+        "cargo": {
+            "id": "fbec1ef3-7f92-4f3a-bfe0-1ed5451a6d08",
+            "cargo": "Especialista en Nómina"
+        }
+    }
+]

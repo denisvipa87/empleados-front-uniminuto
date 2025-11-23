@@ -1,0 +1,1 @@
+export const EmpleadosColumn = ["nombres","apellidos","direccion","telefono","email","cargo","area"];

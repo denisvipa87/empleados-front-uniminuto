@@ -1,0 +1,22 @@
+[
+    {
+        "id": "856d1a53-e16e-437b-bad2-269785bc6966",
+        "cargo": "Analista de RRHH"
+    },
+    {
+        "id": "18ec3594-09f5-4e7b-8b2e-1df3e0cf641c",
+        "cargo": "Gerente de RRHH"
+    },
+    {
+        "id": "9f715b6f-9dcb-4d55-a150-5e7e8ab6b00e",
+        "cargo": "Desarrollador de Software"
+    },
+    {
+        "id": "b4349470-5591-4ca1-be5b-40ad12e159b5",
+        "cargo": "Contador"
+    },
+    {
+        "id": "fbec1ef3-7f92-4f3a-bfe0-1ed5451a6d08",
+        "cargo": "Especialista en Nómina"
+    }
+]
